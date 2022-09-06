@@ -8,4 +8,6 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
+  <project path="device/qcom/sepolicy" name="android_device_qcom_caf-sepolicy" remote="omnirom" revision="android-12.0" />
+
 </manifest>
